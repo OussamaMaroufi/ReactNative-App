@@ -1,2 +1,2 @@
-#Run  npm install 
-#Run expo start 
+# Run  npm install 
+# Run expo start 
